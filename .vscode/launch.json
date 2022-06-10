@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "shadered",
+            "request": "launch",
+            "name": "Debug testShadered.sprj",
+            "program": "${workspaceFolder}/testShadered.sprj"
+        }
+    ]
+}

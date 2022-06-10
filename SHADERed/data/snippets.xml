@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<snippets>
+	<snippet>
+		<language>GLSL</language>
+		<display></display>
+		<search></search>
+		<code></code>
+	</snippet>
+	<snippet>
+		<language>HLSL</language>
+		<display></display>
+		<search></search>
+		<code></code>
+	</snippet>
+</snippets>
